@@ -38,5 +38,5 @@ lattice:
     host: receptor.52.5.229.248.xip.io
 services:
   rabbitmq:
-    host: 10.0.1.207
-    port: 61111
+    host: 127.0.0.1
+    port: 5672
